@@ -6,7 +6,7 @@ import android.util.Log
 import android.view.Surface
 
 /**
- * Created by guxiuzhong@baidu.com on 2020/12/19.
+ * Created by guxiuzhong on 2020/12/19.
  */
 class H264Decoder(
     path: String,
