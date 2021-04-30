@@ -13,7 +13,7 @@ import java.io.IOException
 import java.nio.ByteBuffer
 
 /**
- * Created by guxiuzhong@baidu.com on 2020/12/19.
+ * Created by guxiuzhong on 2020/12/19.
  */
 class H264DecoderISaveImage(
     path: String,
